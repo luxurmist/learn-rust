@@ -1,5 +1,5 @@
 # 学习Rust语言
-语言: [English](README.md), [中文](README_zh.md).
+语言: [中文](README_zh.md), [English](README.md).
 
 ## 开源协议
 learn-rust is licensed under either of
