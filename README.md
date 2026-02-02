@@ -1,8 +1,8 @@
-# learn-rust_lang
-learn-rust_lang
+# learn-rust
+learn-rust
 
 ## License
-learn-rust_lang is licensed under either of
+learn-rust is licensed under either of
 
 * MIT License
 * Apache License, Version 2.0
