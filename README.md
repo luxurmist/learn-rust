@@ -1,3 +1,3 @@
-# learn-the_rust_programming_language
-learn-the_rust_programming_language
-学习《Rust程序设计语言》
+# learn-rust_lang
+learn-rust_lang
+学习Rust语言
