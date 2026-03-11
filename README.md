@@ -1,6 +1,18 @@
 # LEARNOTES
 
 ## Intro
+Personal learn notes
+
+## Item
+1. rust-lang rust语言  
+learn by:  
+《The Rust Programming Language》  
+
+2. self-taught 自考（080901计科）  
+learn by:  
+《计算机系统原理》 13015 机械工业出版社 2023年版
+
+3. markdown
 
 ## License
 learnotes is licensed under either of
