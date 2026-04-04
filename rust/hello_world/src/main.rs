@@ -9,15 +9,12 @@
 // use 引用缩写
 use std::{collections::HashMap, default, string};
 
+use hello_world::mod_name;
+
 // 声明函数 关键字 fn
 // 在每个可执行的Rust程序中，main函数是最先运行的代码。
 fn main() {
     println!("Hello, world!");
-
-
-
-
-
 
     // 声明变量 关键字 let
     // 变量命名 小写蛇形命名法 snake_case
@@ -318,16 +315,4 @@ fn main() {
     for (key, value) in &hm {
         // println!("{key}:{value}");
     }
-
-
-
-
-
-
-
-
-
-
-
-
 }
